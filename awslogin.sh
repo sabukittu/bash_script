@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# author: kmoorer 11/1/2018
-# This script assumes you are logged into SSO
-
 ENV="$1"
 NAME="$2"
 ACCEPTED_ENVS=( dev qa prod )
